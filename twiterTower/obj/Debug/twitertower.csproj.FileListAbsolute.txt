@@ -1,0 +1,8 @@
+C:\h.m\twitertower\bin\Debug\twitertower.exe.config
+C:\h.m\twitertower\bin\Debug\twitertower.exe
+C:\h.m\twitertower\bin\Debug\twitertower.pdb
+C:\h.m\twitertower\obj\Debug\twitertower.csproj.AssemblyReference.cache
+C:\h.m\twitertower\obj\Debug\twitertower.csproj.SuggestedBindingRedirects.cache
+C:\h.m\twitertower\obj\Debug\twitertower.csproj.CoreCompileInputs.cache
+C:\h.m\twitertower\obj\Debug\twitertower.exe
+C:\h.m\twitertower\obj\Debug\twitertower.pdb
